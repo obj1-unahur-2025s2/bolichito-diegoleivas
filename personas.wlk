@@ -17,7 +17,7 @@ object luisa {
 }
 
 
-//probar
+
 object juan {
     method leGusta(unaCosa) = not unaCosa.color().esFuerte() or unaCosa.peso().between(1200,1800)
   
